@@ -1,0 +1,33 @@
+# Godot
+.import/
+.export/
+.cache/
+*.import
+*.cfg
+.godot/
+
+# Godot Mono / C#
+.mono/
+*.sln
+*.csproj
+/*.csproj.user
+/bin/
+/obj/
+*.user
+*.userprefs
+
+# IDEs and editor folders
+.vscode/
+.vs/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
